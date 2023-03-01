@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="javafx-teste">
+    <output-path>$PROJECT_DIR$/out/artifacts/javafx_teste</output-path>
+    <root id="root">
+      <element id="archive" name="javafx_teste.jar">
+        <element id="module-output" name="poc-autentication" />
+      </element>
+    </root>
+  </artifact>
+</component>
